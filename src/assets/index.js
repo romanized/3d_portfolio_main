@@ -18,7 +18,8 @@ import csharp from "./tech/csharp.png";
 import reactjs from "./tech/reactjs.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
-import threejs from "./tech/threejs.svg";
+import threejs from "./tech/threejs.png";
+// import threejs from "./tech/threejs.svg";
 
 import kruidenhoek from "./company/kruidenhoek.png";
 import libanonlyceum from "./company/libanonlyceum.png"

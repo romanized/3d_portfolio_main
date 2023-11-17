@@ -11,6 +11,7 @@ import {
     csharp,
     tailwind,
     git,
+    nodejs,
     figma,
     threejs,
     kruidenhoek,
@@ -89,10 +90,10 @@ import {
       name: "Tailwind CSS",
       icon: tailwind,
     },
-    // {
-    //   name: "Node JS",
-    //   icon: nodejs,
-    // },
+    {
+      name: "Node JS",
+      icon: nodejs,
+    },
     // {
     //   name: "MongoDB",
     //   icon: mongodb,

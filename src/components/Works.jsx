@@ -87,7 +87,7 @@ const Works = () => {
           Here's a look at some of the coding work I've done.
           From small tasks to big projects,
           see what I've built and how I did it. <br></br>
-          <strong>Each project will be provided with a link to the project and a link to the GitHub repository (/romanized)</strong>
+          <strong>Each project will be provided with a link to the project and a link to the GitHub repository</strong>
         </motion.p>
       </div>
 

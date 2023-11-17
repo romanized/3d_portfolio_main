@@ -46,22 +46,19 @@ const About = () => {
       variants={fadeIn("", "", 0.1, 1)}
       className="mt-4 text-secondary text-[17px]
       max-w-3xl leading-[30px]"
+
+      // <strong><a href="https://www.glr.nl/opleidingen/software-developer" className='opacity-80 transition-all hover:opacity-100' target='_blank'>
       >
-      Welcome to my portfolio! I'm currently honing my skills as a software developer at the <strong><a href="https://www.glr.nl/opleidingen/software-developer" className='opacity-80 transition-all hover:opacity-100' target='_blank'>Grafisch Lyceum Rotterdam</a></strong>, where I immerse myself in the dynamic world of coding and technology.
-      My primary focus lies in front-end development, where I've developed a strong command over HTML, CSS, JavaScript, and modern frameworks like Tailwind and React. 
-      These tools are my playground, and I love bringing creative and user-friendly interfaces to life.<br></br><br></br>
+      Welcome to my portfolio! As a software developer in training at the<br></br>
+      <strong><a href="https://www.glr.nl/opleidingen/software-developer" className='opacity-80 transition-all hover:opacity-100' target='_blank'>Grafisch Lyceum Rotterdam</a></strong>, 
+      I specialize in front-end development with expertise in <br></br>HTML, CSS, JavaScript, Tailwind, and React (Soon more).
+      I also have a solid grounding in back-end technologies, including phpMyAdmin, SQLite, and PHP, 
+      as I work towards becoming a full-stack developer.<br></br><br></br>
 
-      While my expertise is more pronounced in front-end development, I also possess a solid foundation in back-end programming. 
-      I've worked with tools like phpMyAdmin, SQLite, and PHP, which have given me valuable insights into server-side development. 
-      This experience has sparked a growing interest in me to delve deeper into back-end technologies. 
-      My goal is to evolve into a proficient full-stack developer, capable of seamlessly integrating both front and back-end aspects of a project.<br></br><br></br>
+      My experience extends to building terminal applications in C#.
+       I am committed to expanding my back-end skills and look forward to opportunities that challenge and grow my abilities in the tech world.
+        Thank you for visiting my portfolio, and I hope to collaborate on projects that innovate and push technological boundaries.<br></br><br></br>
 
-      Additionally, I've explored the realms of C#, where I've enjoyed building several projects, primarily focused on terminal applications. 
-      These experiences have not only sharpened my technical skills but also broadened my perspective in software development.<br></br><br></br>
-
-      As I continue my journey, I am eager to expand my knowledge and skills, especially in back-end development. 
-      I am excited about the opportunities to learn, grow, and contribute to the world of technology.
-       Thank you for visiting my portfolio, and I look forward to collaborating on innovative projects that push the boundaries of what's possible.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
