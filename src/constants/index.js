@@ -339,7 +339,7 @@ import {
       source_code_link: "https://90006.stu.sd-lab.nl/private/unavailable.html",
     },
     {
-    name: "Projcets page",
+    name: "Projects page",
     description:
     "This is a scraped portfolio page that now represents as a projects only page (showing off only my work). This scraped portfolio page is a vivid showcase of my creative versatility, with a clean design, a working light and dark mode bearing a distinct style. Built upon a rich foundation of HTML, CSS, and JavaScript.",
     tags: [
