@@ -18,12 +18,11 @@ import csharp from "./tech/csharp.png";
 import reactjs from "./tech/reactjs.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
-import threejs from "./tech/threejs.svg";
+import threejs from "./tech/threejs.png";
 
 import kruidenhoek from "./company/kruidenhoek.png";
-import libanonlyceum from "./company/libanonlyceum.png"
-import grafischlyceum from "./company/grafischlyceum.png"
-
+import libanonlyceum from "./company/libanonlyceum.png";
+import grafischlyceum from "./company/grafischlyceum.png";
 
 import villas4u from "./villas4u.png";
 import portfolio from "./portfolio.png";
@@ -33,7 +32,6 @@ import ixmox from "./ixmox.png";
 import collectors from "./collectors.png";
 import quizzie from "./quizzie.png";
 import ams from "./ams.png";
-
 
 export {
   logo,
