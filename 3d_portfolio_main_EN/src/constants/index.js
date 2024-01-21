@@ -14,9 +14,12 @@ import {
   nodejs,
   figma,
   threejs,
+  flutter,
+  dart,
   kruidenhoek,
   libanonlyceum,
   grafischlyceum,
+  hogeschoolrotterdam,
   villas4u,
   portfolio,
   ds,
@@ -56,7 +59,7 @@ const services = [
     icon: creator,
   },
   {
-    title: ".NET Developer",
+    title: "App (mobile) Developer",
     icon: mobile,
   },
 ];
@@ -82,10 +85,6 @@ const technologies = [
     name: "React JS",
     icon: reactjs,
   },
-  // {
-  //   name: "Redux Toolkit",
-  //   icon: redux,
-  // },
   {
     name: "Tailwind CSS",
     icon: tailwind,
@@ -94,29 +93,29 @@ const technologies = [
     name: "Node JS",
     icon: nodejs,
   },
-  // {
-  //   name: "MongoDB",
-  //   icon: mongodb,
-  // },
   {
     name: "Three JS",
     icon: threejs,
   },
   {
-    name: "git",
+    name: "Git",
     icon: git,
   },
   {
-    name: "figma",
+    name: "Figma",
     icon: figma,
   },
-  // {
-  //   name: "docker",
-  //   icon: docker,
-  // },
   {
     name: "CSharp",
     icon: csharp,
+  },
+  {
+    name: "Flutter",
+    icon: flutter,
+  },
+  {
+    name: "Dart",
+    icon: dart,
   },
 ];
 
@@ -161,44 +160,17 @@ const experiences = [
     ],
   },
   {
-    title: "Higher professional education (HBO)",
-    company_name: "Unknown",
-    icon: web,
+    title: "University of Applied Sciences (HBO)",
+    company_name: "Hogeschool Rotterdam",
+    icon: hogeschoolrotterdam,
     iconBg: "#E6DEDD",
     date: "Aug 2025 - July 2029",
     points: [
       "After I finish my MBO I would love to continue with my HBO.",
-      "Since this is in the future I can not say what school I will be attending.",
-      "After my HBO, my school career will be closed and I will start profressional working.",
-      "More opportunities to expand my skills.",
+      "I've looked into suiting schools that caught my attention and can proudly say that 'Hogeschool Rotterdam' is a valid option.",
+      "Focuses on practical software development skills.",
+      "Emphasizes real-world experience through internships.",
     ],
-  },
-];
-
-const testimonials = [
-  {
-    testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
-  },
-  {
-    testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
-  },
-  {
-    testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
   },
 ];
 
@@ -391,4 +363,4 @@ const projects = [
   },
 ];
 
-export { services, technologies, experiences, testimonials, projects };
+export { services, technologies, experiences, projects };

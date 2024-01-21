@@ -19,10 +19,13 @@ import reactjs from "./tech/reactjs.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.png";
+import flutter from "./tech/flutter.svg";
+import dart from "./tech/dart.svg";
 
 import kruidenhoek from "./company/kruidenhoek.png";
 import libanonlyceum from "./company/libanonlyceum.png";
 import grafischlyceum from "./company/grafischlyceum.png";
+import hogeschoolrotterdam from "./company/hogeschoolrotterdam.png";
 
 import villas4u from "./villas4u.png";
 import portfolio from "./portfolio.png";
@@ -50,6 +53,8 @@ export {
   javascript,
   csharp,
   nodejs,
+  flutter,
+  dart,
   reactjs,
   tailwind,
   typescript,
@@ -65,4 +70,5 @@ export {
   kruidenhoek,
   libanonlyceum,
   grafischlyceum,
+  hogeschoolrotterdam,
 };

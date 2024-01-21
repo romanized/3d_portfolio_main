@@ -38,7 +38,7 @@ const About = () => {
       <motion.div variants={textVariant()}>
         <p className={styles.sectionSubText}>Overview of</p>
         <h2 className={styles.sectionHeadText}>My skills.</h2>
-        <a href="src/assets/CV.jpg" download="CV.jpg">
+        <a href="assets/ENCV.pdf" download="ENCV.pdf">
           <h3 className={styles.sectionCVText}>Click here to download my CV</h3>
         </a>
       </motion.div>
@@ -73,7 +73,9 @@ const About = () => {
         <br></br>
         <br></br>I have also worked with C#, primarily in building terminal
         applications, which has enhanced my technical skills and broadened my
-        perspective in software development.
+        perspective in software development. I have also got interest in
+        developing mobile applications using Flutter & Dart with Firebase as an
+        extra for backend systems.
         <br></br>
         <br></br>I am committed to expanding my knowledge, particularly in
         back-end development, and am excited about the possibilities for
