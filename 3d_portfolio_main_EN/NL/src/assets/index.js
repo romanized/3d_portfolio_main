@@ -35,6 +35,8 @@ import ixmox from "./ixmox.png";
 import collectors from "./collectors.png";
 import quizzie from "./quizzie.png";
 import ams from "./ams.png";
+import muziekquiz from "./muziekquiz.png";
+import flutterdart from "./flutterdart.png";
 
 export {
   logo,
@@ -62,6 +64,8 @@ export {
   villas4u,
   quizzie,
   portfolio,
+  muziekquiz,
+  flutterdart,
   ds,
   shabu,
   ixmox,

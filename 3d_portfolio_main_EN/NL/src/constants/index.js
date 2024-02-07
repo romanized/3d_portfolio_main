@@ -21,9 +21,11 @@ import {
   grafischlyceum,
   hogeschoolrotterdam,
   villas4u,
+  muziekquiz,
   portfolio,
   ds,
   quizzie,
+  flutterdart,
   shabu,
   ixmox,
   collectors,
@@ -175,6 +177,56 @@ const experiences = [
 ];
 
 const projects = [
+    {
+    name: "Talk to me - Bezig",
+    description:
+      "In de maak: een state-of-the-art mobiele app die de kunst van communicatie herdefinieert. Met de kracht van Flutter en Dart en ondersteund door Firebase, is deze app jouw toekomstige go-to voor al je berichten, bestanden delen, en meer. Ontwikkeld samen met een collega, belooft deze app de manier waarop we verbinden met vrienden, familie, en collega's te vernieuwen, door een gestroomlijnde en interactieve ervaring te bieden.",
+    tags: [
+      {
+        name: "Flutter",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Dart",
+        color: "orange-text-gradient",
+      },
+      {
+        name: "Firebase",
+        color: "green-text-gradient",
+      },
+    ],
+    image: flutterdart,
+    open_project:
+      "https://90006.stu.sd-lab.nl/private/unavailable.html",
+    source_code_link: "https://90006.stu.sd-lab.nl/private/unavailable.html",
+  },
+    {
+    name: "MuziekQuiz - Bezig",
+    description:
+      "In de maak: een gloednieuwe multiplayer muziekquiz! Strijd met vrienden om te zien wie de echte muziekkenner is. Tot 4 spelers, oneindig veel fun. Dit project word samen met een teamgenoot gemaakt.",
+    tags: [
+      {
+        name: "PHP",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "CSS",
+        color: "orange-text-gradient",
+      },
+      {
+        name: "Javascript (AJAX)",
+        color: "green-text-gradient",
+      },
+      {
+        name: "MySQL (database)",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: muziekquiz,
+    open_project:
+      "https://90006.stu.sd-lab.nl/private/unavailable.html",
+    source_code_link: "https://github.com/SilvesterNL/Muziekquiz",
+  },
   {
     name: "Villas4U",
     description:
@@ -228,7 +280,7 @@ const projects = [
   {
     name: "Ixmoxbeauty",
     description:
-      "Een website gebouwd op verzoek van een klant, met gebruik van HTML, CSS en JavaScript. De website bevat een schat aan informatie over verschillende massages en diensten. Geen andere bijdragers.",
+      "Een website gebouwd op verzoek van een klant, met gebruik van HTML, CSS en JavaScript. De website bevat een schat aan informatie over verschillende massages en diensten. Code is prive voor rechten redenen en heeft geen andere bijdragers.",
     tags: [
       {
         name: "HTML",
@@ -337,29 +389,6 @@ const projects = [
     open_project:
       "https://90006.stu.sd-lab.nl/Portfolio_scrap/PAGES/projects.html",
     source_code_link: "https://github.com/romanized/Portfolio",
-  },
-  {
-    name: "Quizzie game",
-    description:
-      "Een van mijn eerste gemaakte websites is een getuigenis van mijn toewijding en teamwork, gecreëerd met HTML, CSS en JS. Ik nam de leiding over de quizmechanica, het highscoresysteem, het ontwerp van de website en creëerde de Fortnite-quizsectie door gebruik te maken van verschillende tutorials om mijn programmeerexpertise te verbeteren.",
-    tags: [
-      {
-        name: "HTML",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "CSS",
-        color: "orange-text-gradient",
-      },
-      {
-        name: "JavaScript",
-        color: "green-text-gradient",
-      },
-    ],
-    image: quizzie,
-    open_project:
-      "https://90006.stu.sd-lab.nl/Quizzie-BEROEPS1-main/HTML/homepage.html",
-    source_code_link: "https://github.com/romanized/Quizzie-BEROEPS1",
   },
 ];
 

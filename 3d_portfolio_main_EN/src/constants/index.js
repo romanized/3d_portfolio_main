@@ -20,6 +20,8 @@ import {
   libanonlyceum,
   grafischlyceum,
   hogeschoolrotterdam,
+  muziekquiz,
+  flutterdart,
   villas4u,
   portfolio,
   ds,
@@ -175,6 +177,56 @@ const experiences = [
 ];
 
 const projects = [
+    {
+    name: "Talk to me - Ongoing",
+    description:
+      "In progress: a state-of-the-art mobile app that redefines the art of communication. Powered by Flutter and Dart and supported by Firebase, this app will be your future go-to for all your messaging, file sharing, and more. Developed collaboratively, this app promises to revolutionize the way we connect with friends, family, and colleagues by providing a streamlined and interactive experience.",
+    tags: [
+      {
+        name: "Flutter",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Dart",
+        color: "orange-text-gradient",
+      },
+      {
+        name: "Firebase",
+        color: "green-text-gradient",
+      },
+    ],
+    image: flutterdart,
+    open_project:
+      "https://90006.stu.sd-lab.nl/private/unavailable.html",
+    source_code_link: "https://90006.stu.sd-lab.nl/private/unavailable.html",
+  },
+    {
+    name: "MuziekQuiz - Ongoing",
+    description:
+      "In the making: a brand new multiplayer music quiz! Compete with friends to see who the real music expert is. Up to 4 players, endless fun. This project is being created together with a teammate.",
+    tags: [
+      {
+        name: "PHP",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "CSS",
+        color: "orange-text-gradient",
+      },
+      {
+        name: "Javascript (AJAX)",
+        color: "green-text-gradient",
+      },
+      {
+        name: "MySQL (database)",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: muziekquiz,
+    open_project:
+      "https://90006.stu.sd-lab.nl/private/unavailable.html",
+    source_code_link: "https://github.com/SilvesterNL/Muziekquiz",
+  },
   {
     name: "Villas4U",
     description:
@@ -337,29 +389,6 @@ const projects = [
     open_project:
       "https://90006.stu.sd-lab.nl/Portfolio_scrap/PAGES/projects.html",
     source_code_link: "https://github.com/romanized/Portfolio",
-  },
-  {
-    name: "Quizzie game",
-    description:
-      "One of my first made website is a testament to my dedication and teamwork, created using HTML, CSS, and JS. I took the lead on the quiz mechanics, the highscore system, design of the website and crafted the Fortnite quiz section by leveraging various tutorials to enhance my coding expertise.",
-    tags: [
-      {
-        name: "HTML",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "CSS",
-        color: "orange-text-gradient",
-      },
-      {
-        name: "JavaScript",
-        color: "green-text-gradient",
-      },
-    ],
-    image: quizzie,
-    open_project:
-      "https://90006.stu.sd-lab.nl/Quizzie-BEROEPS1-main/HTML/homepage.html",
-    source_code_link: "https://github.com/romanized/Quizzie-BEROEPS1",
   },
 ];
 
