@@ -15,6 +15,7 @@ import {
   figma,
   threejs,
   flutter,
+  crud,
   dart,
   kruidenhoek,
   libanonlyceum,
@@ -345,13 +346,13 @@ const projects = [
     source_code_link: "https://90006.stu.sd-lab.nl/private/unavailable.html",
   },
   {
-    name: "Digital Signage Screenshower",
+    name: "Agenda CRUD",
     description:
-      "It looks simple but has a specific purpose. The website functions well on a DS stand where, in this case, 4 different video games are displayed. The inclusion of a screensaver not only protects the screen but also serves as an engaging way to attract attention when the stand is not actively in use.",
+      "A custom-built website developed using PHP, JavaScript, and CSS, featuring a comprehensive agenda system for management and scheduling. Equipped with advanced CRUD functionalities, it allows users to effortlessly manage, edit, and delete appointments. The platform also includes secure login and registration features.",
     tags: [
       {
-        name: "HTML",
-        color: "blue-text-gradient",
+        name: "PHP",
+        color: "pink-text-gradient",
       },
       {
         name: "CSS",
@@ -362,10 +363,10 @@ const projects = [
         color: "green-text-gradient",
       },
     ],
-    image: ds,
+    image: crud,
     open_project:
-      "https://90006.stu.sd-lab.nl/DigitalSignage%20Minor/screensaver.html",
-    source_code_link: "https://90006.stu.sd-lab.nl/private/unavailable.html",
+      "https://90006.stu.sd-lab.nl/oop2/crud/PHP/login.php",
+    source_code_link: "https://github.com/romanized/crud",
   },
   {
     name: "Projects page",

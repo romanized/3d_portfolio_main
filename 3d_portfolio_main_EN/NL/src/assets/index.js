@@ -37,6 +37,7 @@ import quizzie from "./quizzie.png";
 import ams from "./ams.png";
 import muziekquiz from "./muziekquiz.png";
 import flutterdart from "./flutterdart.png";
+import crud from "./crud.jpg";
 
 export {
   logo,
@@ -67,6 +68,7 @@ export {
   muziekquiz,
   flutterdart,
   ds,
+  crud,
   shabu,
   ixmox,
   collectors,

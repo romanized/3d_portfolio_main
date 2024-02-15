@@ -25,6 +25,7 @@ import {
   portfolio,
   ds,
   quizzie,
+  crud,
   flutterdart,
   shabu,
   ixmox,
@@ -300,7 +301,7 @@ const projects = [
     source_code_link: "https://90006.stu.sd-lab.nl/private/private.html",
   },
   {
-    name: "De verzamelaars",
+    name: "De Verzamelaars",
     description:
       "Een website gebaseerd op PHP, CSS, JavaScript en HTML die gebruikers in staat stelt om een verscheidenheid aan producten te bekijken en bestellingen te plaatsen via een backend-systeem. De website beschikt over een contactpagina en een volledig functioneel CRUD (Create, Read, Update, Delete) systeem, waardoor gebruikers producten kunnen toevoegen, verwijderen en wijzigen. Neem voor wie het CRUD-systeem uitgebreid wil testen contact met mij op.",
     tags: [
@@ -345,13 +346,13 @@ const projects = [
     source_code_link: "https://90006.stu.sd-lab.nl/private/unavailable.html",
   },
   {
-    name: "Digital Signage Screenshower",
+    name: "Agenda CRUD",
     description:
-      "Het ziet er eenvoudig uit, maar heeft een specifiek doel. De website functioneert goed op een DS-standaard waar in dit geval 4 verschillende videospellen worden getoond. De toevoeging van een screensaver beschermt niet alleen het scherm, maar dient ook als een boeiende manier om aandacht te trekken wanneer de stand niet actief in gebruik is.",
+      "Een op maat gemaakte website, ontwikkeld met PHP, JavaScript en CSS, biedt een volledig functioneel agenda-systeem voor beheer en planning. Met geavanceerde CRUD-functionaliteit kunnen gebruikers eenvoudig afspraken beheren, bewerken en verwijderen. Het platform omvat tevens beveiligde inlog- en registratiemogelijkheden.",
     tags: [
       {
-        name: "HTML",
-        color: "blue-text-gradient",
+        name: "PHP",
+        color: "pink-text-gradient",
       },
       {
         name: "CSS",
@@ -362,10 +363,10 @@ const projects = [
         color: "green-text-gradient",
       },
     ],
-    image: ds,
+    image: crud,
     open_project:
-      "https://90006.stu.sd-lab.nl/DigitalSignage%20Minor/screensaver.html",
-    source_code_link: "https://90006.stu.sd-lab.nl/private/unavailable.html",
+      "https://90006.stu.sd-lab.nl/oop2/crud/PHP/login.php",
+    source_code_link: "https://github.com/romanized/crud",
   },
   {
     name: "Projecten Pagina",
